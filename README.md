@@ -1,12 +1,9 @@
 DOM Manipulation
 
 Goals
-
-In this unit, you’ll:
-
-Learn about the DOM (Document Object Model) and how to use it to find and modify HTML on a webpage
-Learn about Event-Driven Programming, for instance, how JavaScript and HTML interact when you click on a button
-Projects & Exercises:
+-Learn about the DOM (Document Object Model) and how to use it to find and modify HTML on a webpage
+-Learn about Event-Driven Programming, for instance, how JavaScript and HTML interact when you click on a button
+-Projects & Exercises:
 
 To apply these skills hands-on:
 
